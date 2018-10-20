@@ -1,1 +1,1 @@
-# bckgen- A Background CSS color selector
+# Bckgen- A Background CSS color selector
